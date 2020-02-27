@@ -172,7 +172,7 @@ The summary provides a short description of what the operation does.
 
 ### <a name="description"></a>3.2 Description
 
-The description provides a complete overview of what the operation does. You can use [GitHub-flavored markdown](gfm-syntax) for rich text.
+The description provides a complete overview of what the operation does. This description can contain [GitHub-flavored markdown](gfm-syntax) for rich text formatting.
 
 ## 4 Example
 
