@@ -25,7 +25,7 @@ Place this widget in a data view where you want the button to be placed. Make su
 
 ### 2.3 Events Tab
 
-* **On change microflow** – an optional microflow that will be triggered once the location has been retrieved
+* **On change microflow** – an optional microflow that will be triggered once the location has been retrieved; when using this option, make sure the attribute has read/write access rights, otherwise an error saying "No change hash found for read only member" will occur.
 * **On change nanoflow** –  an optional nanoflow that will be triggered once the location has been retrieved
 
 ## 3 Adding the Plugin
