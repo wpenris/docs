@@ -16,7 +16,7 @@ Place this widget in a data view where you want the button to be placed. Make su
 
 ### 2.1 Data Source Tab
 
-* **Attribute** – the attribute on the data view object to which the resulting string should be set
+* **Attribute** – the attribute on the data view object to which the resulting string should be set; make sure to set read and write access rights to the attribute when using an on change microflow/nanoflow, or an error will be thrown.
 
 ### 2.2 Button Tab
 
